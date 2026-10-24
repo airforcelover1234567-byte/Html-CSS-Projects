@@ -2,3 +2,9 @@ h1{
     border:3px dotted aquamarine;
     border-radius:2px;
 }
+p{
+    border-bottom:3px solid yellow;
+    border-top:3px dotted blue;
+    border-left:3px dotted rgb(21, 255, 0);
+    border-right:3px dotted rgb(255, 0, 251);
+}

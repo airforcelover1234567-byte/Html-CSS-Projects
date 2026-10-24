@@ -1,0 +1,15 @@
+h1{
+    text-shadow:10px 3px 5px rgb(0, 0, 0),8px 1px;
+    color:orange;
+    font-size:10em;
+    text-align:center;
+}
+body{
+    background-color:grey;
+}
+#div{
+    width:500px;
+    height:100px;
+    background-color:rgb(85, 82, 82);
+    box-shadow:4px 3px 5px;
+}
