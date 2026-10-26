@@ -1,0 +1,22 @@
+#mydiv2{
+    font-size:90px;
+    text-align:center;
+    color:orange;
+    text-shadow: 5px 5px 5px black;
+    border:5px dotted orange;
+    margin-top:5px;
+    padding:10px;
+    border-radius:12px;
+}
+#myh1{
+    margin:2px;
+}
+#myheader{
+    text-align:center;
+    margin-top:25px;
+}
+.buttons{
+    background-color:orange;
+    padding:10px 20px;
+    border-radius:10px;
+}
