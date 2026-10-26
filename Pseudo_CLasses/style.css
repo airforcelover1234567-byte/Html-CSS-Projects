@@ -1,0 +1,31 @@
+#mylink:link{
+    color:rgb(249, 110, 110);
+}
+#mylink:hover{
+    color:hsl(0, 100%, 50%);
+    font-size:1.1em;
+}
+#mylink:active{
+    color:orange;
+}
+#mylink:visited{
+    color:green;
+}
+li:hover{
+    size:1.1em;
+    background-color:hsl(60, 89%, 75%);
+}
+li:not(:hover){
+    background-color:hwb(60 67% 32%);
+}
+li:nth-child(odd){
+    background-color:red;
+}
+#greeting p{
+    display:none;
+    background-color:cyan;
+    padding:10px;
+}
+#greeting:hover p{
+    display:block;
+}
