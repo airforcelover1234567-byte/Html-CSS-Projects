@@ -1,0 +1,17 @@
+*{
+        box-sizing:border-box;
+}
+.container{
+    background-color:tomato;
+    height:100vh;
+}
+.box{
+    background-color:turquoise;
+    border:5px solid black;
+    padding: 25px;
+    height:auto;
+    width:50%;
+    float:left;
+    text-align:center;
+    min-width:25%;
+}
