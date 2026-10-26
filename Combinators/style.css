@@ -1,0 +1,13 @@
+/* .box p{
+    background-color:orange;
+    border:2px solid black;
+} */
+.box > p{
+    background-color:orange;
+}
+/* .box ~p{
+    background-color:orange;
+} */
+.box + p{
+    background-color:orange;
+ }
