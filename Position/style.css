@@ -2,7 +2,18 @@
     background-color:tomato;
     height:200px;
     width:200px;
-    position:relative;
-    top:100px;
-    left:100px;
+    position:sticky;
+    top:0px;
+    /* top:100px;
+    left:100px; */
+}
+#mydiv2{
+    background-color:aqua;
+    height:100px;
+    width:100px;
+    position:absolute;
+    left:0px;
+    bottom:0px;
+    /* top:100px;
+    left:100px; */
 }

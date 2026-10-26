@@ -27,3 +27,10 @@
     float:left;
     padding:10px;
 }
+#my{
+    width:100%;
+    height:20px;
+    background-color:orange;
+    position:fixed;
+    bottom:0px;
+}
