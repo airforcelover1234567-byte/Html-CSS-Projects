@@ -1,0 +1,16 @@
+.boxes{
+    border:5px solid;
+    width:250px;
+    height:250px;
+    font-size:2.5em;
+}
+#box1{
+    background-color:red;
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:50px;
+}
+#box2{
+    background-color:blue;
+    margin:100px;
+}

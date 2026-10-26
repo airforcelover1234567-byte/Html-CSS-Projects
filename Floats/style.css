@@ -1,0 +1,12 @@
+#img1{
+    float:left;
+    margin-right:25px;
+}
+#img2{
+    float:right;
+    margin-left:25px;
+}
+body{
+    border:3px solid orange;
+    display:flow-root; 
+}
