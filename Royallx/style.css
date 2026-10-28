@@ -1,5 +1,5 @@
 #mydiv2{
-    font-size:90px;
+    font-size:30px;
     text-align:center;
     color:orange;
     text-shadow: 5px 5px 5px black;
@@ -13,15 +13,17 @@
 }
 #myheader{
     text-align:center;
-    margin-top:25px;
+    margin-top:15px;
 }
-#myheader > button{
-    background-color:orange;
-    padding:10px 20px;
+.buttons{
+    font-size:1.1em;
+    background-color:rgb(242, 198, 117);
     border-radius:10px;
+    padding:10px;
 }
-/* .buttons{
-    background-color:orange;
-    padding:10px 20px;
+.buttons:hover{
+    background-color:rgb(251, 170, 21);
+    font-size:1.5em;
     border-radius:10px;
-} */
+    padding:11px;
+}

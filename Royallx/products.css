@@ -12,10 +12,9 @@
     color: orange;
     display: inline;
     border-radius: 15px;
-    padding: 10px;
+    padding: 8px;
     text-align:center;
     position:relative;
-    top:50px;
 }
 
 #myhr {
@@ -30,6 +29,7 @@
     float:left;
     padding:10px;
     text-align:center;
+    position:relative;
 }
 #my{
     width:100%;
@@ -37,4 +37,8 @@
     background-color:orange;
     position:fixed;
     bottom:0px;
+}
+.img{
+    max-width:100%;
+    display:block;
 }
