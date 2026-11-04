@@ -1,0 +1,14 @@
+#h1::first-letter{
+    font-size:4em;
+    font-style:Italic;
+}
+#p::first-line{
+    background-color:yellow;
+}
+#p::selection{
+    background-color:black;
+    color:red;
+}
+#list::marker{
+    content:"/Royallx/royallx.jpg";
+}
