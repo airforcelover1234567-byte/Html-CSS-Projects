@@ -8,3 +8,8 @@
     position:absolute;
     left:50%;
 }
+#myhr{
+    position:relative;
+    display:block;
+    top:100%;
+}
