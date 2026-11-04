@@ -1,0 +1,10 @@
+#myh1{
+    color:orange;
+    position:relative;
+    top:50%;
+    left:50%;
+}
+#myimg{
+    position:absolute;
+    left:50%;
+}
