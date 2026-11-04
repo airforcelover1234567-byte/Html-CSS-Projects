@@ -1,15 +1,36 @@
-#myh1{
-    color:orange;
+.myh1{
+    color:black;
     position:relative;
-    top:50%;
-    left:50%;
+    text-align:left;
+    margin-left:30px;
+    font-size:5em;
+    font-family:Reenie Beanie;
+    float:left;
+}
+#myh3{
+    color:black;
+    position:relative;
+    text-align:left;
+    margin-left:30px;
+    font: size 1.7em;
+    font-family:Reenie Beanie;
+    
 }
 #myimg{
-    position:absolute;
-    left:50%;
-}
-#myhr{
     position:relative;
-    display:block;
-    top:100%;
+    left:50%;
+    top:10%;
 }
+.buttons{
+    background-color:rgb(251, 248, 241);
+    padding: 10px;
+    border-radius:10px;
+    margin-left:10px;
+}
+.buttons:hover{
+    font-size:1.2em;
+    background-color: orange;
+    color:black;
+    padding:10px;
+}
+
