@@ -24,3 +24,6 @@
 .dropdown:hover .menu{
     display:block;
 }
+.dropdown .menu a:hover{
+    background-color: tomato;
+}
