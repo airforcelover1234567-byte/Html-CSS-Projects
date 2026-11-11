@@ -1,5 +1,26 @@
-.dropdpwn button{
+.dropdown{
+    display:inline
+}
+.dropdown button{
     color:black;
-    font-size:100px;
+    font-size:3.5em;
     background-color:grey;
+    cursor:pointer;
+    padding:8px;
+    border-radius:5px;
+}
+.dropdown a{
+    font-size:2em;
+    color:black;
+    text-decoration:none;
+    display:block;
+}
+.dropdown .menu{
+    display:none;
+    position:absolute;
+    background-color:yellowgreen;
+    box-shadow:5px 5px 5px black;
+}
+.dropdown:hover .menu{
+    display:block;
 }
