@@ -1,0 +1,17 @@
+body{
+    background-image:url(./back.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment:fixed;
+}
+#h11{
+    font-size:8em;
+    color:rgb(255, 220, 173);
+    text-align:center;
+    position:relative;
+    bottom:50%;
+}
+#mydiv{
+    box-sizing:border-box;
+}
