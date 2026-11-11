@@ -8,3 +8,19 @@
 .list li:hover{
     background-color:green;
 }
+#mydiv{
+    text-align:center;
+}
+#mydiv a{
+    color:black;
+    font-size:2em;
+    padding:6px 15px;
+}
+#mydiv a.active{
+    background-color:tomato;
+    border-radius:8px;
+}
+#mydiv a:hover:not(.active){
+    background-color:grey;
+    border-radius:8px;
+}
